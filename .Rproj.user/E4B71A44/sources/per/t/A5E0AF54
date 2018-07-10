@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531198174142.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A5E0AF54",
+    "lastKnownWriteTime" : 7226435094589303907,
+    "last_content_update" : 1531198174142,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7F0948EB",
+        "caption" : "data-air",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data-air&cache_key=7F0948EB",
+        "displayedObservations" : 44,
+        "environment" : "",
+        "object" : "data-air",
+        "preview" : 0,
+        "totalObservations" : 44,
+        "variables" : 34
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
